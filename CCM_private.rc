@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "CCM.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,0,3,5
+PRODUCTVERSION 1,0,3,5
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "DK Developing OS"
+      VALUE "FileVersion", "1.0.3.5"
+      VALUE "FileDescription", "Console Color Manager"
+      VALUE "InternalName", "Console Color Manager"
+      VALUE "LegalCopyright", "All Right Reserved by DK DOS"
+      VALUE "LegalTrademarks", "DK DOS @ 2018"
+      VALUE "OriginalFilename", "Project Rainbow"
+      VALUE "ProductName", "CCM"
+      VALUE "ProductVersion", "1.0.3.5"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1252
+  }
+}
